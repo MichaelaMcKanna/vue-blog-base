@@ -1,0 +1,16 @@
+{
+	"posts": [
+		{
+			"title": "hello",
+			"id": 1,
+			"body": "Reprehenderit veniam ea ullamco enim in cillum sunt. Ad nulla sit do labore. Est mollit est consectetur Lorem esse adipisicing deserunt et minim deserunt. Reprehenderit nostrud non qui adipisicing velit qui quis magna Lorem pariatur nisi pariatur duis.",
+			"tags": ["webdev", "nutrition"]
+		},
+		{
+			"title": "goodbye",
+			"id": 2,
+			"body": "Quis et adipisicing ex mollit est laboris laborum. Deserunt enim magna velit id esse Lorem laboris adipisicing do velit duis. Veniam sunt fugiat ipsum do ad. Occaecat non aliquip do eu anim amet occaecat consequat eu officia. Officia aliqua et et culpa anim aliquip voluptate aliquip eiusmod incididunt. Minim fugiat mollit ex Lorem eu. Ullamco eiusmod amet sunt est.",
+			"tags": ["webdev", "nutrition"]
+		}
+	]
+}
